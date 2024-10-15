@@ -1,0 +1,15 @@
+/Users/max/Downloads/NewVariant/bin/Debug/net7.0/NewVariant
+/Users/max/Downloads/NewVariant/bin/Debug/net7.0/NewVariant.deps.json
+/Users/max/Downloads/NewVariant/bin/Debug/net7.0/NewVariant.runtimeconfig.json
+/Users/max/Downloads/NewVariant/bin/Debug/net7.0/NewVariant.dll
+/Users/max/Downloads/NewVariant/bin/Debug/net7.0/NewVariant.pdb
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.csproj.AssemblyReference.cache
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.AssemblyInfoInputs.cache
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.AssemblyInfo.cs
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.csproj.CoreCompileInputs.cache
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.dll
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/refint/NewVariant.dll
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.pdb
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/NewVariant.genruntimeconfig.cache
+/Users/max/Downloads/NewVariant/obj/Debug/net7.0/ref/NewVariant.dll

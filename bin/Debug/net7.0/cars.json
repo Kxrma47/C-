@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2021
+  },
+  {
+    "Id": 2,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022
+  }
+]
